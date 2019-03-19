@@ -1,0 +1,24 @@
+{
+  "name": "rise/yii2-mongo-object-behavior",
+  "description": "Формат ID для  mongo active record",
+  "type": "library",
+  "keywords": [
+    "yii2",
+    "extension"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Марк Москаленко",
+      "email": "office@it-yes.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "rise\\mongoObjectBehavior\\": "./src"
+    }
+  }
+}
