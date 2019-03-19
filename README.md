@@ -10,22 +10,5 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist rise/yii2-mongo-object-behavior "*"
+composer require --prefer-dist rise-team/yii2-mongo-object-behavior "*"
 ```
-
-or add
-
-```
-"rise/yii2-mongo-object-behavior": "*"
-```
-
-to the require section of your `composer.json` file.
-
-
-Usage
------
-
-Once the extension is installed, simply use it in your code by  :
-
-```php
-<?= \rise\behaviors\AutoloadExample::widget(); ?>```
