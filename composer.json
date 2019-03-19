@@ -1,5 +1,5 @@
 {
-  "name": "rise/yii2-mongo-object-behavior",
+  "name": "rise-team/yii2-mongo-object-behavior",
   "description": "Формат ID для  mongo active record",
   "type": "library",
   "keywords": [
